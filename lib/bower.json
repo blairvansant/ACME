@@ -1,0 +1,17 @@
+{
+  "name": "lib",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Blair Van Sant"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
