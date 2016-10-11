@@ -1,0 +1,129 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+
+        "silly_sparklers": {
+            "id": 1,
+            "type": 0,
+            "name": "Silly Sparklers",
+            "description": "Multi-colored sparklers that are safe for clowns."
+        },
+
+         "junior_sparklers": {
+            "id": 2,
+            "type": 0,
+            "name": "Junior Sparklers",
+            "description": "Multi-colored sparklers that are only safe for kids."
+        },
+
+         "crazy_sparklers": {
+            "id": 3,
+            "type": 1,
+            "name": "Crazy Sparklers",
+            "description": "Multi-colored sparklers that are safe for crazy people."
+        },
+
+         "sad_sparklers": {
+            "id": 4,
+            "type": 1,
+            "name": "Sad Sparklers",
+            "description": "Multi-colored sparklers that are safe for sad people."
+        },
+
+         "party_sparklers": {
+            "id": 5,
+            "type": 1,
+            "name": "Party Sparklers",
+            "description": "Multi-colored sparklers that are safe for parties."
+        },
+
+         "buddy_sparklers": {
+            "id": 6,
+            "type": 2,
+            "name": "Buddy Sparklers",
+            "description": "Multi-colored sparklers that are safe for buddies."
+        },
+
+         "dog_sparklers": {
+            "id": 7,
+            "type": 2,
+            "name": "Dog Sparklers",
+            "description": "Multi-colored sparklers that are safe for any dog."
+        },
+
+         "cat_sparklers": {
+            "id": 8,
+            "type": 2,
+            "name": "Cat Sparklers",
+            "description": "Multi-colored sparklers that are safe for any cat."
+        },
+
+        "funny_sparklers": {
+            "id": 9,
+            "type": 3,
+            "name": "Funny Sparklers",
+            "description": "Multi-colored sparklers that are safe for any comedian."
+        },
+
+        "rap_sparklers": {
+            "id": 10,
+            "type": 3,
+            "name": "Rap Sparklers",
+            "description": "Multi-colored sparklers that are safe for rappers."
+        },
+
+         "rock_sparklers": {
+            "id": 11,
+            "type": 3,
+            "name": "Rock Sparklers",
+            "description": "Multi-colored sparklers that are only safe for rockers."
+        },
+
+         "car_sparklers": {
+            "id": 12,
+            "type": 4,
+            "name": "Car Sparklers",
+            "description": "Multi-colored sparklers that are safe for cars."
+        },
+
+         "truck_sparklers": {
+            "id": 13,
+            "type": 4,
+            "name": "Truck Sparklers",
+            "description": "Multi-colored sparklers that are safe for Trucks."
+        },
+
+         "boat_sparklers": {
+            "id": 14,
+            "type": 4,
+            "name": "Boat Sparklers",
+            "description": "Multi-colored sparklers that are safe for boats."
+        },
+
+         "train_sparklers": {
+            "id": 15,
+            "type": 5,
+            "name": "Train Sparklers",
+            "description": "Multi-colored sparklers that are safe for trains."
+        },
+
+         "tractor_sparklers": {
+            "id": 16,
+            "type": 5,
+            "name": "Tractor Sparklers",
+            "description": "Multi-colored sparklers that are safe for any tractor."
+        },
+
+         "motorcycle_sparklers": {
+            "id": 17,
+            "type": 5,
+            "name": "Motorcycle Sparklers",
+            "description": "Multi-colored sparklers that are safe for any motorcycle."
+        }                  
+    }]
+}
